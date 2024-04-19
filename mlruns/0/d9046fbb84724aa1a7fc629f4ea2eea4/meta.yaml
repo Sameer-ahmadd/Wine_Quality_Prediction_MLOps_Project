@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Wine_Quality_Prediction_MLOps_Project/mlruns/0/d9046fbb84724aa1a7fc629f4ea2eea4/artifacts
+end_time: 1713506128295
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d9046fbb84724aa1a7fc629f4ea2eea4
+run_name: nervous-moth-956
+run_uuid: d9046fbb84724aa1a7fc629f4ea2eea4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713506124673
+status: 3
+tags: []
+user_id: HP

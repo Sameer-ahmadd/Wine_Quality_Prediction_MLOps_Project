@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Wine_Quality_Prediction_MLOps_Project/mlruns/0/9e5bd7701fcb4bcf89b5f9401c183d8f/artifacts
+end_time: 1713506413807
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9e5bd7701fcb4bcf89b5f9401c183d8f
+run_name: sassy-snipe-397
+run_uuid: 9e5bd7701fcb4bcf89b5f9401c183d8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713506410140
+status: 3
+tags: []
+user_id: HP

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Wine_Quality_Prediction_MLOps_Project/mlruns/0/a110b3bd336c45868cf76a594b4d370e/artifacts
+end_time: 1713505691713
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a110b3bd336c45868cf76a594b4d370e
+run_name: big-bass-564
+run_uuid: a110b3bd336c45868cf76a594b4d370e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713505687210
+status: 3
+tags: []
+user_id: HP
